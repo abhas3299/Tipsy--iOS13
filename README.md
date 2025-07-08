@@ -36,7 +36,7 @@ Tipsy is a sleek and simple tip calculator app built in Swift using UIKit. It al
 
 3. Run the app on a simulator or real device (iOS 13+).
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 Working with text fields, buttons, and view controllers
 
